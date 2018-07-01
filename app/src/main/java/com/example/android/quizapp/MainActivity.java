@@ -53,8 +53,7 @@ public class MainActivity extends AppCompatActivity {
         Boolean noteG = checkBoxQuestion4G.isChecked();
 
 
-
-        if (noteE == true && noteA == false && noteD == false && noteG == false ) {
+        if (noteE == true && noteA == false && noteD == false && noteG == false) {
             answerQuestion4 = true;
         }
 
