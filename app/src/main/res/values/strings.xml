@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quizzie</string>
+    <string name="sub_header">Guitar Quiz Questions</string>
+    <string name="question1">A standard acoustic guitar has how many strings?</string>
+    <string name="question2">The Standard Tuning of an acoustic guitar consists of which open notes</string>
+    <string name="checkbox_E">E</string>
+    <string name="checkbox_A">A</string>
+    <string name="checkbox_D">D</string>
+    <string name="checkbox_F">F</string>
+    <string name="question3">What is a standard guitar made of?</string>
+    <string name="question_3_button_wood">Wood</string>
+    <string name="question_3_button_iron">Iron</string>
+    <string name="question_3_button_plastic">Plastic</string>
+    <string name="question_3_button_rubber">Rubber</string>
+    <string name="question4">Which musical note(s) repeats in a standard tuning?</string>
+    <string name="question_4_checkbox_E">E</string>
+    <string name="question_4_checkbox_A">A</string>
+    <string name="question_4_checkbox_D">D</string>
+    <string name="question_4_checkbox_G">G</string>
+    <string name="question5">What part of the guitar is the bridge located?</string>
+    <string name="question_5_button_body">Body</string>
+    <string name="question_5_button_tail">Tail</string>
+    <string name="question_5_button_neck">Neck</string>
+    <string name="question_5_button_head">Head</string>
+    <string name="evaluate_button">Submit</string>
+    <string name="reset_button">Reset Quiz</string>
+
+</resources>
