@@ -75,6 +75,7 @@
                 android:layout_marginLeft="16dp"
                 android:layout_marginTop="0dp"
                 android:text="@string/checkbox_D" />
+
             <CheckBox
                 android:id="@+id/question_2_F"
                 android:layout_width="wrap_content"
@@ -164,13 +165,13 @@
                 android:text="@string/question_4_checkbox_A" />
 
             <CheckBox
-            android:id="@+id/question_4_D"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="12dp"
-            android:layout_marginLeft="16dp"
-            android:layout_marginTop="0dp"
-            android:text="@string/question_4_checkbox_D" />
+                android:id="@+id/question_4_D"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="0dp"
+                android:text="@string/question_4_checkbox_D" />
 
             <CheckBox
                 android:id="@+id/question_4_G"
@@ -180,6 +181,7 @@
                 android:layout_marginLeft="16dp"
                 android:layout_marginTop="0dp"
                 android:text="@string/question_4_checkbox_G" />
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -221,6 +223,7 @@
                     android:layout_marginLeft="16dp"
                     android:layout_marginTop="2dp"
                     android:text="@string/question_5_button_neck" />
+
                 <RadioButton
                     android:id="@+id/question_5_head"
                     android:layout_width="wrap_content"
